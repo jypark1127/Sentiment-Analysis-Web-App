@@ -1,2 +1,3 @@
 # Sentiment-Analysis-Web-App
-# This is using Pyhton(flask) with Azure AI language model
+# This is the web app created by using Pyhton(flask) with Azure AI language model
+by JYP
